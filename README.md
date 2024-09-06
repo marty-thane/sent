@@ -1,21 +1,21 @@
-# sent
-
+sent
+====
 sent is a simple plaintext presentation tool.
 
-## Applied patches
-
+Patches applies
+---------------
 - bilinear-scaling
 - cmdline-options
 - pdf
 - progress-bar
 
-## Dependencies
-
+Dependencies
+------------
 You need Xlib and Xft to build sent and the farbfeld[^1] tools installed to use
 images in your presentations.
 
-## Development
-
+Development
+-----------
 sent is developed at http://tools.suckless.org/sent
 
 [^1]: http://tools.suckless.org/farbfeld/
